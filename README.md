@@ -54,17 +54,16 @@ Employee-payroll-mapreduce/
 │   └── payroll_sample.csv
 │
 ├── Screenshots/
-│   ├── 01_job_submission.png
-│   ├── 02_map_reduce_progress.png
-│   ├── 03_job_success.png
-│   ├── 04_counters.png
-│   └── 05_output_sample.png
+│   ├── reduce_side_join_job_success1.png
+│   ├── reduce_side_join_job_success2.png
+|   ├── reduce_side_join_job_success3.png
+│   ├── input1.png
+│   ├── input2.png
+│   └── output.png
 │
 ├── Jar/
 │   └── employeepayroll.jar
 │
-├── pom.xml
-├── run.sh
 └── README.md
 ```
 
