@@ -184,7 +184,7 @@ target/employeepayroll.jar
 
 # 🚀 Running the Project
 
-## Option 1: Direct Hadoop Command
+## Direct Hadoop Command
 
 ```bash
 hadoop jar employeepayroll.jar employeepayroll.PayrollDriver \
@@ -195,14 +195,6 @@ hadoop jar employeepayroll.jar employeepayroll.PayrollDriver \
 /employeepayroll/output_real
 ```
 
----
-
-## Option 2: Using run.sh
-
-```bash
-chmod +x run.sh
-./run.sh
-```
 
 ---
 
